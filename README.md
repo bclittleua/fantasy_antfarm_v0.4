@@ -41,6 +41,7 @@ python fantfarm_v0.4.py --year 50 --pop-scale 0.5 -v
 - `--year N` → Run simulation for `N` years
 - `--pop-scale X` → Scale starting population
 - `-v` / `--verbose` → Print live event log
+- `--psum N` → Print a summary at N interval, years
 
 ### Output
 
