@@ -1,10 +1,10 @@
 # Fantasy Antfarm v0.4
 
-A long-form autonomous simulation of a fantasy world where individuals—commoners, adventurers, monsters, and gods—interact over decades or centuries without player intervention.
+An autonomous simulation of a fantasy world where individuals—commoners, adventurers, monsters, and gods—interact over decades or centuries without player intervention.
 
 This is not a game in the traditional sense. It is a system that *runs itself*, producing emergent history: heroes rise and fall, regions collapse into tyranny or flourish under order, monsters carve out domains, and divine forces subtly shift the balance.
 
-You are not controlling the world—you are observing it.
+You can observe the world, but you cannot control it.
 
 ---
 
