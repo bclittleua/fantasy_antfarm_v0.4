@@ -1,6 +1,6 @@
 # Fantasy Antfarm v0.4
 
-An autonomous simulation of a fantasy world where individuals—commoners, adventurers, monsters, and gods—interact over decades or centuries without player intervention.
+An autonomous simulation of a fantasy world where individuals—commoners, adventurers, monsters, and gods—interact over decades or centuries without player intervention. Adventurers emerge in several classes—such as fighters, wizards, wanderers, and bards—each contributing differently to combat, leadership, and social cohesion.
 
 This is not a game in the traditional sense. It is a system that *runs itself*, producing emergent history: heroes rise and fall, regions collapse into tyranny or flourish under order, monsters carve out domains, and divine forces subtly shift the balance.
 
@@ -125,23 +125,31 @@ Each adventurer evaluates:
 
 ## Adventurer Classes
 
-### Fighter
+Adventurers are drawn from several classes, each with a different role in the simulation.
 
+### Fighter
 - High survivability
 - Strong in direct combat
-- Backbone of most parties
+- Often serves as the backbone of a party
+- Best suited for frontline encounters and sustained fighting
 
 ### Wizard
-
 - Rare
 - High-impact abilities
-- Lower survivability, high influence scaling
+- Lower survivability, but strong influence on difficult encounters
+- More likely to swing major conflicts than endure long attritional ones
 
-### Wanderer (Ranger / Rogue Hybrid)
+### Wanderer
+- A ranger/rogue hybrid
+- Mobile and opportunistic
+- Flexible combat and exploration role
+- Often acts independently before joining larger groups
 
-- Mobile
-- Opportunistic
-- Flexible combat / utility role
+### Bard
+- Social support and influence specialist
+- Contributes less through raw force and more through coordination, morale, and reputation effects
+- More likely to strengthen parties, improve cohesion, and amplify the success of stronger companions
+- Functions as a force multiplier rather than a primary combatant
 
 ---
 
